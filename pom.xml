@@ -4,7 +4,7 @@
   <groupId>com.liquidhub</groupId>
   <artifactId>di-demo</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>di-demo Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
